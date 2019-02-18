@@ -4,5 +4,6 @@ An app for safety of women
  the main activities of this app is as follows are:
  1. Police
  2. Is the place Safe
- 3.
- 
+ 3. Helpline Number
+ 4. Contacts
+ 5
