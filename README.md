@@ -6,4 +6,4 @@ An app for safety of women
  2. Is the place Safe
  3. Helpline Number
  4. Contacts
- 5
+ 5. Message
